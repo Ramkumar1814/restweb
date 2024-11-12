@@ -399,10 +399,10 @@ footer {
 
 
 ## OUTPUT:
-![alt text](<Screenshot 2024-10-28 154420.png>)
-![alt text](<Screenshot 2024-10-28 154427.png>)
-![alt text](<Screenshot 2024-10-28 154432.png>)
-![alt text](<Screenshot 2024-10-28 154440.png>)
+![Screenshot 2024-11-12 101920](https://github.com/user-attachments/assets/0e8f7776-593d-41e1-98e7-0ed51c920b4b)
+![Screenshot 2024-11-12 101928](https://github.com/user-attachments/assets/0ab8cb10-e491-48f2-b090-30a3c4080d44)
+![Screenshot 2024-11-12 101939](https://github.com/user-attachments/assets/daae1a8a-64e5-466f-9866-2c5214b11b28)
+![Screenshot 2024-11-12 101951](https://github.com/user-attachments/assets/9c169815-b1c6-44e7-9714-ce3c3582db65)
 
 
 ## RESULT:
